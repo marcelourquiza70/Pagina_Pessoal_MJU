@@ -1,6 +1,6 @@
-<img src="images/perfil_fre_pequena.png" alt="alt" style="zoom:25%;" />
 
-# Página Pessoal de Marcelo Urquiza
+
+# Página Pessoal de Marcelo Urquiza <img src="Images/perfil_fre_pequena.png" alt="alt" style="zoom:100%;" />
 
 ## Marido e Pai em tempo integral 👨‍👩‍👦‍👦
 
